@@ -1,0 +1,27 @@
+body{
+  background: #bdc3c7;
+  background: -webkit-linear-gradient(to top, #2c3e50, #bdc3c7);
+  background: linear-gradient(to top, #2c3e50, #bdc3c7);
+  background-repeat: no-repeat;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  align-items: center ;
+  justify-content: center;
+  font-family: 'Licorice', cursive;
+  font-family: 'Moon Dance', cursive;
+  font-family: 'Rajdhani', sans-serif;
+}
+button{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-color: red;
+  border: 1px solid red;
+  cursor: pointer;
+}
+.fun{
+  background: #FF512F; 
+  background: -webkit-linear-gradient(to right, #F09819, #FF512F);  
+  background: linear-gradient(to right, #F09819, #FF512F);
+}
